@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d17f360b-4729-4367-ad0c-ed9b4a172faf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java65_Dictionary_useMap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TuDien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Dictionary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +51,7 @@
       <recent name="D:\Md2\Java65_Dictionary_useMap\src\exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dictionary">
+  <component name="RunManager">
     <configuration name="Dictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise.Dictionary" />
       <module name="Java65_Dictionary_useMap" />
@@ -103,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680752276645</updated>
       <workItem from="1680752278370" duration="12267000" />
-      <workItem from="1680784623328" duration="2244000" />
+      <workItem from="1680784623328" duration="4745000" />
     </task>
     <servers />
   </component>
